@@ -1,0 +1,14 @@
+# Configurações com credenciais
+configuration.php
+
+# Arquivos temporários e cache
+/cache/
+/administrator/cache/
+/tmp/
+/logs/
+/administrator/logs/
+
+# Backups e bancos de dados locais
+/backups/
+*.sql
+*.log
