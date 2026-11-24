@@ -10,5 +10,4 @@ configuration.php
 
 # Backups e bancos de dados locais
 /backups/
-*.sql
 *.log
