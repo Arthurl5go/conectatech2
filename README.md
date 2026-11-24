@@ -73,7 +73,7 @@ Com o Laragon e o MySQL em execução, acesse:
 
 ## Banco de dados
 
-O arquivo `conectatech.sql` contém a exportação do banco de dados utilizado pelo projeto, incluindo conteúdos, categorias, menus, usuários e configurações armazenadas pelo Joomla.
+O arquivo `conectatech.sql` contém a exportação do banco de dados utilizado pelo projeto, incluindo conteúdos, categorias, menus, usuários e configurações armazenadas pelo Joomla
 
 ## Desenvolvido para fins acadêmicos
 
